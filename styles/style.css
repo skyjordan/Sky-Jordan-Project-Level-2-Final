@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&family=Poppins&display=swap');
+@import url('banner.css');
+@import url('button.css');
+@import url('cards.css');
+@import url('footer.css');
+
+
+body  {
+	margin: 0;
+	font-family: 'PT serif', serif;
+	background-color: rgb(248,226,231);
+	}
+
+
+	h1, h2, h3 {
+	font-family: 'PT Serif', serif
+	}
+
+	a {
+		text-decoration: none;
+		}
+
+		.container {
+			width: 80%;
+			margin: auto;
+			}
